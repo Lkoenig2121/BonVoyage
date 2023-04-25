@@ -1,0 +1,85 @@
+{
+    "Header": {
+
+        "title": "We are NYC's Luxury Limo Service",
+        "paragraph": "First Class Chauffer Service in New York City."
+
+    },
+    "About": {
+        "paragraph": "Bon Voyage Limousine in NYC is staffed by a team of highly skilled professionals who are fully equipped to cater to your transportation needs in New York City with top-quality services. Our mission is to provide you with the most luxurious, comfortable, and sophisticated limousines, ensuring that you exude elegance wherever you go. From airport transfers to business meetings or personal engagements, Bon Voyage Limousine service has got you covered.",
+        "Why": [
+            "Easy Booking",
+            "Fabulous Rides",
+			"Professional Drivers"
+        ],
+        "Why2": [
+            "Great Luxury",
+			"Fleet Of Vehicles",
+            "Reliable and Secure"
+        ]
+    },
+    "Services": [
+		{
+            "icon": "fa fa-automobile",
+            "name": "Private Car Service",
+            "text": "Driving can be hassle, which is why so many individuals rely on Bon Voyage Limousine Service for their daily transportation needs. We provide professionally chauffeured services for any occasion."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Airport Car Service",
+            "text": "Our door-to-door airport service is relied upon daily, providing airport transportation throughout New York City, New York, New Jersey, and Connecticut. The level of service we provide can be customized to meet your needs."
+        },
+		{
+            "icon": "fa fa-taxi",
+            "name": "Daily Commuting",
+            "text": "We appreciate the value of time and know every minute counts. With other commuting methods, time is often wasted navigating traffic, parking, chasing trains, finding seats, or waiting. Let a Bon Voyage Limousine Service personal driver take you door to door and further maximize your day."
+        },
+        {
+            "icon": "fa fa-road",
+            "name": "Long Distance Car Service",
+            "text": "When flying is not the best option, Bon Voyage Limousine Service provides long distance car service. Bon Voyage Limousine Service provides reliable and comfortable multi-city transportation services."
+        }
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [
+		{
+            "icon": "fa fa-money",
+            "title": "Best Pricing",
+            "text": "Confirmed before booking."
+        },
+		{
+            "icon": "fa fa-plane",
+            "title": "Comfortable Airport Transfers",
+            "text": "Flight tracking, curb-side meet, inside meet."
+        },
+        {
+            "icon": "fa fa-clock-o",
+            "title": "Ride Flexibility",
+            "text": "Change or cancel for free up until 2 hours prior to pickup."
+        }
+    ]
+}
